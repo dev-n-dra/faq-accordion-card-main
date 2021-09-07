@@ -48,7 +48,7 @@ body {
     background-color: white;
     border-radius: 2.4em;
     width: 90%;
-    background-image: url("../images/illustration-woman-online-desktop.svg"), url("../images/bg-pattern-desktop.svg");
+    background-image: url("./images/illustration-woman-online-desktop.svg"), url("./images/bg-pattern-desktop.svg");
     background-position: left -7rem top 6.5rem, left -55rem top -30rem;
     background-repeat: no-repeat;
     background-size: 40em, 80em;
